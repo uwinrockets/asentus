@@ -1571,9 +1571,9 @@ fieldset[disabled] .btn-theme {
 
 
 .fa {
-  padding: 10px;
+  padding: 0px;
   font-size: 15px;
-  width: 30px;
+  width: 80px;
   text-align: center;
   text-decoration: none;
   border-radius: 50%;
@@ -1586,8 +1586,7 @@ fieldset[disabled] .btn-theme {
   color: rgb(0, 140, 255);
 }
 
-
-
-
-
+#shorter{
+  padding: 1 px;
+}
 
